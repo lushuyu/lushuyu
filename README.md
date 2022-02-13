@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 ---
 
-<a href="https://www.luogu.com.cn/user/145596"><img align="left" src="https://luogu.wao3.cn/api/practice?id=145596" height="86" /></a>
+<a href="https://www.luogu.com.cn/user/145596"><img align="left" src="https://luogu.wao3.cn/api/practice?id=145596" height="300" /></a>
