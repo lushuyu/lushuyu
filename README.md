@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![:lushuyu](https://count.getloli.com/get/@:lushuyu)
+<p align="center">
+  <a href="https://count.getloli.com"><img src="https://count.getloli.com/get/@lushuyu?theme=gelbooru" /></a>
+</p>
+
+---
+
+<a href="https://www.luogu.com.cn/user/145596"><img align="left" src="https://luogu.wao3.cn/api/practice?id=145596" height="86" /></a>
